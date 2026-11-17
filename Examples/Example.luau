@@ -7,7 +7,7 @@ local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 local entity = Spawner:Create({
 	Entity = {
 		Name = "Template Entity",
-		Asset = "https://github.com/RegularVynixu/DOORS-Entity-Spawner-V2/raw/main/Assets/Entities/Rush.rbxm",
+		Asset = "https://github.com/eoyoustme/Endless-Doors/blob/main/Rebound.rbxm",
 		HeightOffset = 0
 	},
 	Lights = {
